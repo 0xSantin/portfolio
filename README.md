@@ -26,7 +26,7 @@
 ## Projects
 
 - **Amazon Sales Data Analysis**  
-  Analyzed sales data to identify purchasing trends, seasonal variations, and product performance. Utilized Python and SQL to extract insights, leading to targeted marketing strategies that increased sales by [X]% over [Y] months.
+  Analyzed sales data to identify purchasing trends.
 
 - **Instagram Reach**  
   Conducted a comprehensive analysis of Instagram engagement metrics to evaluate the effectiveness of social media campaigns. Created visualizations in Python to present findings, enabling stakeholders to optimize content strategies.
