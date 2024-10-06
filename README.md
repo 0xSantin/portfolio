@@ -1,7 +1,7 @@
-# Data Analyst 
+# Back-end dev
 
 ## Technical Skills
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, C++, C# and Java
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Projects
+## Data Analyst Projects
 
 - **Amazon Sales Data Analysis**  
   Analyzed sales data to identify purchasing trends.
