@@ -7,16 +7,9 @@
 
 ## Work Experience
 
-### Data Analyst  
-**IBBCX Financial Services**  
-*June 2022 - August 2023*  
-- Conducted data analysis and visualization to identify trends and insights, driving strategic decision-making.
-- Developed and maintained SQL queries to extract and manipulate data from relational databases.
-- Collaborated with cross-functional teams to design and implement data-driven solutions for business problems.
-
 ### Backend Game Developer  
 **NordesOT**  
-*September 2022 - August 2024*  
+*January 2021 - August 2024*  
 - Designed and implemented backend services to support multiplayer gaming, enhancing user experience and engagement.
 - Developed and optimized RESTful APIs for real-time data exchange, achieving a 21% improvement in response times.
 - Collaborated with cross-functional teams to integrate game mechanics and server-side logic.
